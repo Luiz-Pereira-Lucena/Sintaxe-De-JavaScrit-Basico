@@ -1,0 +1,16 @@
+body{
+    background-color:darkturquoise;
+    text-align: center;
+    margin-top: 15%;
+    font-size: 30px;
+}
+
+.container .btn{
+    width: 50px;
+    height: 47px;
+    border: none;
+    border-radius: 50%;
+    background-color: darkviolet;
+    margin: 5px 10px;
+    font-size: 40px;
+}
